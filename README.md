@@ -1,14 +1,12 @@
-(go to CONTRIBUTING.md and this file and search for the keywords "REPLACE"&"INSERT" to complete the setup.)
+![pygraphs]('Asset 1.svg')
 
-![mngr-bot](thumbnail.svg) [REPLACE WITH LOGO]
+# pygraphs: an example of what a graph-based system for computation in things like machine learning can look like.
 
-# [INSERT REPOSTIORY NAME]: [INSERT REPOSITORY DESCRIPTION]
+## What is pygraphs?
+Not much, again. Just something I'm working on to try and speed up computation.
 
-## What is [INSERT REPOSTIORY NAME]?
-
-## More about [INSERT REPOSTIORY NAME] and how it was developed 🧪
-
-![principles of the model](principle.png) [REPLACE WITH IMAGE]
+## More about pygraphs and how it was developed 🧪
+Just know that if you use this, I'm overjoyed already.
 
 ## How to contribute 🤝
 

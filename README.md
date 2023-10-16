@@ -1,4 +1,4 @@
-![pygraphs]('Asset 1.svg')
+![pygraphs](pygraphs_logo.svg)
 
 # pygraphs: an example of what a graph-based system for computation in things like machine learning can look like.
 

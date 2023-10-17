@@ -1,4 +1,4 @@
-![graphlib](pygraphs_logo.svg)
+![graphlib](graphlib-logo.svg)
 
 # graphlib: an example of what a graph-based system for computation in things like machine learning can look like.
 

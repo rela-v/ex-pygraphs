@@ -6,7 +6,7 @@
 Not much, again. Just something I'm working on to try and speed up computation.
 
 ## More about pygraphs and how it was developed 🧪
-Just know that if you use this, I'm overjoyed already.
+Just know that if you use this, I'm overjoyed already. This isn't going to be optimal. If you'd like to contribute, see below.
 
 ## How to contribute 🤝
 
